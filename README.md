@@ -13,20 +13,20 @@ All the code in runs in Python 3 without failing, and all unit tests pass
 
 
 # Python libraries and prerequisites
-Python 3.7
-Numpy 
-Pandas 
-Matplotlib 
-Jupyter Notebook
-Torchvision
-PyTorch 
+* Python 3.7
+* Numpy 
+* Pandas 
+* Matplotlib 
+* Jupyter Notebook
+* Torchvision
+* PyTorch 
 
 # Installing 
-conda install -c conda-forge numpy
-conda install -c conda-forge pandas
-conda install -c conda-forge matplotlib
-pip install torchvision
-conda install -c pytorch pytorch
+* conda install -c conda-forge numpy
+* conda install -c conda-forge pandas
+* conda install -c conda-forge matplotlib
+* pip install torchvision
+* conda install -c pytorch pytorch
 
 # Tools:
 TensorFlow
